@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": "PROJECT_REFERENCE.md",
+      "source": "user-supplied project overview",
+      "source_sha256": "24dc67a416fd47074badf15bd022e321bc2f127620178e59201a6c47a4e7c915",
+      "published_sha256": "1e5e981130c16e14ab391fe38196c03620bf66c844bafddf4a6cb0ec05ace255",
+      "transformations": [
+        "historical-claim attribution",
+        "platform-neutral workspace terminology",
+        "mark unavailable internal reference links"
+      ]
+    }
+  ]
+}

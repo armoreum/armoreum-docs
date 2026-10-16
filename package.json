@@ -1,0 +1,20 @@
+{
+  "name": "@armoreum/docs",
+  "version": "0.1.0-source.1",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "Armoreum architecture, artifact-based repository map, security, recovery, and economic-reference documentation.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/armoreum/armoreum-docs.git"
+  },
+  "homepage": "https://github.com/armoreum/armoreum-docs#readme",
+  "bugs": {
+    "url": "https://github.com/armoreum/armoreum-docs/issues",
+    "email": "support@armoreum.io"
+  },
+  "scripts": {
+    "test": "node scripts/check-docs.mjs"
+  }
+}
